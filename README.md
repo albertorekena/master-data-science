@@ -8,19 +8,19 @@ Este repositorio contiene un proyecto de data science, enfocado a conseguir pred
 
 En la wiki de este repositorio encontrarás toda la documentación relativa al proyecto:
 
-
+[https://github.com/albertorekena/master-data-science/wiki](https://github.com/albertorekena/master-data-science/wiki)
 
 **Tabla de Contenidos:**
-1. [Objetivo](#objetivo)
-2. [Adquisición de los Datos](#adquisicion-de-los-datos)
-3. [Análisis Exploratorio](#analisis-exploratorio)
-4. [Preparación DataFrame Base](#preparacion-dataframe-base)
-5. [Prophet](#prophet)
-6. [Prophet Aplicado a este Proyecto]
-7. [Visualizaciones y Data Analysis]
-8. [Tecnología Utilizada]
-9. [Cómo Ejecutar el Código]
-10. [Sobre los Autores]
+1. [Objetivo](https://github.com/albertorekena/master-data-science/wiki/Objetivo)
+2. [Adquisición de los Datos](https://github.com/albertorekena/master-data-science/wiki/Adquisici%C3%B3n-de-los-Datos)
+3. [Análisis Exploratorio](https://github.com/albertorekena/master-data-science/wiki/An%C3%A1lisis-Exploratorio)
+4. [Preparación DataFrame Base](https://github.com/albertorekena/master-data-science/wiki/Preparaci%C3%B3n-DataFrame-Base)
+5. [Prophet](https://github.com/albertorekena/master-data-science/wiki/Prophet)
+6. [Prophet Aplicado a este Proyecto](https://github.com/albertorekena/master-data-science/wiki/Prophet-Aplicado-a-este-Proyecto)
+7. [Visualizaciones y Data Analysis](https://github.com/albertorekena/master-data-science/wiki/Visualizaciones-y-Data-Analysis)
+8. [Tecnología Utilizada](https://github.com/albertorekena/master-data-science/wiki/Tecnolog%C3%ADa-Utilizada)
+9. [Cómo Ejecutar el Código](https://github.com/albertorekena/master-data-science/wiki/C%C3%B3mo-Ejecutar-el-C%C3%B3digo)
+10. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
 
 
 **Desarrollado Por [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/) y [Alberto Rekena](https://es.linkedin.com/in/albertorekena)**
