@@ -1,6 +1,7 @@
 # Predicción de Envíos para Empresa de Logística
 
-`#DataScience` | `#TimeSeries`
+`#DataScience` | `#TimeSeries` | `#Logistics`
+
 
 Bienvenido a este Proyecto.
 
