@@ -10,7 +10,7 @@ En la wiki de este repositorio encontrarás toda la documentación relativa al p
 
 [https://github.com/albertorekena/master-data-science/wiki](https://github.com/albertorekena/master-data-science/wiki)
 
-**Si quieres ir directamente a alguno de sus puntos tratados, su Tabla de Contenidos es la siguiente:**
+**Si quieres ir directamente a alguno de los puntos tratados, su Tabla de Contenidos es la siguiente:**
 1. [Objetivo](https://github.com/albertorekena/master-data-science/wiki/Objetivo)
 2. [Adquisición de los Datos](https://github.com/albertorekena/master-data-science/wiki/Adquisici%C3%B3n-de-los-Datos)
 3. [Análisis Exploratorio](https://github.com/albertorekena/master-data-science/wiki/An%C3%A1lisis-Exploratorio)
