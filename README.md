@@ -2,7 +2,6 @@
 
 `#DataScience` | `#TimeSeries` | `#Logistics`
 <br></br>
-<br></br>
 Bienvenido a este Proyecto.
 
 Este repositorio contiene un proyecto de data science, enfocado a conseguir predicciones de envíos para una empresa de transportes por país y producto, con el objetivo de que ésta pueda ser más efectiva a la hora de realizar ajustes de recursos y precios en sus servicios.
