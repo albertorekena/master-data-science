@@ -17,9 +17,7 @@ En la wiki de este repositorio encontrarás toda la documentación relativa al p
 4. [Cómo Ejecutar el Código](https://github.com/albertorekena/master-data-science/wiki/C%C3%B3mo-Ejecutar-el-C%C3%B3digo)
 5. [Análisis Exploratorio](https://github.com/albertorekena/master-data-science/wiki/An%C3%A1lisis-Exploratorio)
 6. [Prophet](https://github.com/albertorekena/master-data-science/wiki/Prophet)
-7. [Prophet Aplicado a este Proyecto](https://github.com/albertorekena/master-data-science/wiki/Prophet-Aplicado-a-este-Proyecto)
-8. [Visualizaciones y Data Analysis](https://github.com/albertorekena/master-data-science/wiki/Visualizaciones-y-Data-Analysis)
-9. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
-
+7. [Visualizaciones y Data Analysis](https://github.com/albertorekena/master-data-science/wiki/Visualizaciones-y-Data-Analysis)
+8. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
 
 **Desarrollado Por [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/) y [Alberto Rekena](https://es.linkedin.com/in/albertorekena)**
