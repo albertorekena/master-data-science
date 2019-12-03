@@ -22,4 +22,4 @@ En la wiki de este repositorio encontrarás toda la documentación relativa al p
 9. [Futuras Líneas de Trabajo](https://github.com/albertorekena/master-data-science/wiki/Futuras-L%C3%ADneas-de-Trabajo)
 10. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
 
-**Desarrollado Por [Alberto Rekena](https://es.linkedin.com/in/albertorekena) y [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/)**
+**Desarrollado Por [Alberto Rekena](https://es.linkedin.com/in/albertorekena) y [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/).**
